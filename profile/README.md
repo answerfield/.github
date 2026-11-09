@@ -3,6 +3,8 @@
 answerfield ist eine typisierte, deklarativ-reaktive Sprache für digitale Assessments: Aufgaben, Testhefte und ihre
 Kodierung in einer Quelle, ausgeführt von einer Runtime im Browser.
 
+- **Playground** [answerfield Playground](https://answerfield.github.io/playground/)
+- **Wie nutze ich answerfield?** [answerfield Dokumentation](https://answerfield.github.io/writing-items)
 - **Warum answerfield?** [answerfield.de](https://answerfield.de)
 
 ## Repositories
